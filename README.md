@@ -8,6 +8,6 @@
 
 Spiegazione codice nel forum! [LINK](ZipFuck)
 
-![https://i.imgur.com/LkphgN0.png]()
+![](https://i.imgur.com/LkphgN0.png)
 
-![https://i.imgur.com/JSgw3N7.png]()
+![](https://i.imgur.com/JSgw3N7.png)
